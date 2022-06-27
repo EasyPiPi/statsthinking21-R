@@ -1,0 +1,17 @@
+# The name of the environment
+name: stats
+# The relevent channels
+channels:
+- conda-forge
+- bioconda
+- r
+dependencies:
+# R
+- r-base>=4.0
+- r-boot
+- r-devtools
+- r-cowplot
+- r-mass
+- r-nhanes
+- r-pwr
+- r-tidyverse
