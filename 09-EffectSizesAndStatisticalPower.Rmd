@@ -23,6 +23,9 @@ options(tibble.width = 60)
 
 library(knitr)
 
+# load the NHANES data library
+library(NHANES)
+
 # drop duplicated IDs within the NHANES dataset
 NHANES <-
   NHANES %>% 
