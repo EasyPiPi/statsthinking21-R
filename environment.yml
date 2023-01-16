@@ -10,9 +10,18 @@ dependencies:
 - r-base>=4.0
 - r-bayesfactor
 - r-boot
-- r-devtools
+- r-caret
 - r-cowplot
+- r-devtools
+- r-emmeans
+- r-fivethirtyeight # datasets from https://github.com/fivethirtyeight/data
+- r-ggfortify
+- r-lme4
+- r-lmertest
+- r-lifecycle>=1.0.3
 - r-mass
+- r-matrix>= 1.4_2
 - r-nhanes
 - r-pwr
+- r-rlang>=1.0.3
 - r-tidyverse
