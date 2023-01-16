@@ -14,14 +14,22 @@ dependencies:
 - r-cowplot
 - r-devtools
 - r-emmeans
+- r-factoextra
 - r-fivethirtyeight # datasets from https://github.com/fivethirtyeight/data
+- r-ggdendro
 - r-ggfortify
+- r-gparotation
+- r-gplots
 - r-lme4
 - r-lmertest
 - r-lifecycle>=1.0.3
 - r-mass
 - r-matrix>= 1.4_2
+- r-mclust
 - r-nhanes
+- r-pdist
+- r-psych
 - r-pwr
 - r-rlang>=1.0.3
 - r-tidyverse
+- r-viridis
